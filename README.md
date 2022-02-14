@@ -1,4 +1,4 @@
-# ThreadPool-C-Implementation
+# ThreadPool
 
 This repository documents my implementation of Thread Pool in C programming language.
 This implementation is a solution to an assignment I have been given as part of Operation System course I took at Bar-Ilan University.
